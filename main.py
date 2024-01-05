@@ -1,5 +1,3 @@
-#Bryan F. Rocha, CISA3309_600_202230: Scripting Languages, instructor: Zechun Cao, 06/15/2022
-
 #This program tries to simulate the control mechanism of an thermostate in only one instance.
 #The thermostat has three exclusive settings: 1-A/C, 2-Heating, 0-None (or standby).
 # It monitors the current temperature and turns on A/C or heater to control the indoor temperature then decides what to turn ON or OFF.
